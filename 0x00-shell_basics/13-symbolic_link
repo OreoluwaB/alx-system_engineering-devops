@@ -1,1 +1,2 @@
-#!/bin/bash ln -s /bin/cp -un .*html ..
+#!/bin/bash
+ ln -s/bn/cp -un *.html ..
